@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    border-radius: 5px;
+    margin: 0.5rem;
+    max-width: 500px;
+    padding: 5px;
+    width: 50%;
+}
+
+select{
+    margin: 00.5rem;
+    max-width: 500px;
+    padding: 5px;
+    width: 50%;
+}
+
+button{
+    margin: 00.5rem;
+    max-width: 500px;
+    padding: 5px;
+    width: 50%;
+}
